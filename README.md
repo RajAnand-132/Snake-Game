@@ -1,9 +1,13 @@
 # Snake-Game
 https://user-images.githubusercontent.com/83199724/186991064-05ec72af-92f7-4727-a625-5492f4086e9f.mp4
+# Terminology
 
-
-As this code is written in java, so it is difficult to show live demo or playing this game here. But if you want to play this game which is very intresting and thoughtfull, So what you can do is follow these steps and play this game: -
-
-- Clone or download this code.
-- Open in your JAVA IDE or JAVA Editor (VS Code, IntelliJ,Netbeans,etc).
-- Save the code and run it.
+The player controls a dot, square, or object on a bordered plane. 
+As it moves forward, it leaves a trail behind, resembling a moving snake. 
+In some games, the end of the trail is in a fixed position, 
+so the snake continually gets longer as it moves. 
+In another common scheme, the snake has a specific length, 
+so there is a moving tail a fixed number of units away from the head. 
+The player loses when the snake runs into the screen border, 
+other obstacle, or itself. This is developed using the concept of 
+sliding window of data structures.
